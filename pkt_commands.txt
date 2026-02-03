@@ -1,7 +1,5 @@
 # CONFIGURE ISP ROUTER
 
 enable
+configure terminal
 
-# CONFIGURE ACCESS SWITCH
-
-enable
