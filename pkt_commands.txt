@@ -1,0 +1,7 @@
+# CONFIGURE ISP ROUTER
+
+enable
+
+# CONFIGURE ACCESS SWITCH
+
+enable
